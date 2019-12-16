@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0a3eb4-223c-4c60-b2f3-d7f6c97f3063" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S2Y1X7jIoKLsgsXnLrmcXRgA9V" />
+  <component name="PropertiesComponent">
+    <property name="PluginDummyText.Genre" value="esoteric" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\src\gatsby\tutorial\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\src\gatsby\tutorial\src\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\src\gatsby\tutorial\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0a3eb4-223c-4c60-b2f3-d7f6c97f3063" name="Default Changelist" comment="" />
+      <created>1570762942490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570762942490</updated>
+      <workItem from="1570762943698" duration="285000" />
+      <workItem from="1570763236790" duration="154000" />
+      <workItem from="1570763398378" duration="198000" />
+      <workItem from="1570763604239" duration="1930000" />
+      <workItem from="1571193161113" duration="802000" />
+      <workItem from="1571276917402" duration="739000" />
+      <workItem from="1571278078533" duration="1928000" />
+      <workItem from="1571623285599" duration="4757000" />
+      <workItem from="1571708241446" duration="6349000" />
+      <workItem from="1571862226046" duration="2269000" />
+      <workItem from="1572108755691" duration="2201000" />
+      <workItem from="1572915953312" duration="1267000" />
+      <workItem from="1574480580199" duration="2000" />
+      <workItem from="1574995346293" duration="2586000" />
+      <workItem from="1575092887600" duration="324000" />
+      <workItem from="1575426847050" duration="808000" />
+      <workItem from="1575519488985" duration="66000" />
+      <workItem from="1575835660746" duration="7286000" />
+      <workItem from="1575950130235" duration="4772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
